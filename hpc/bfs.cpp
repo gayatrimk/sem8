@@ -1,3 +1,5 @@
+//to run code: g++ -fopenmp bfs.cpp -o bfs
+//./bfs input.txt
 
 #include <omp.h>
 #include <fstream>
